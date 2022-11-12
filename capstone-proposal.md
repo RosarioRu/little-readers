@@ -13,7 +13,7 @@ The main purpose of this application will be to connect caregivers of young chil
 #### Technologies Needed for MVP 
 - React
 - React Javascript
-- API to store books and reviews
+- API to store books and reviews - possibly SQL
 - Node
 
 #### Stretch Goals
