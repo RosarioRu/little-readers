@@ -15,6 +15,8 @@ The main purpose of this application will be to connect caregivers of young chil
 - React Javascript
 - API to store books and reviews - possibly SQL
 - Node
+- asp .net 
+- c#
 
 #### Stretch Goals
 - User homepage with list of books they have rated or link to list of books they have rated.
