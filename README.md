@@ -24,6 +24,8 @@ _Final project for Epicodus full-stack program. An application that allows users
 #### Friday 11/12/2022
 *2:00pmish - 2:20ish: 0.5 hour OpenWeather Api and ReactJS video: https://www.youtube.com/watch?v=UjeXpct3p7M
 *2:20pm - 4:28pm: About 2 hours video tutorial on asp.net api and react. Did not watch the entire video (was trying some stuff out as I watched): https://www.youtube.com/watch?v=I9QUsAhbKhg
+#### Wednesday 12/30/2022
+*8:30-9:30ish: 1hr. reading about Google Books API: https://developers.google.com/books/docs/v1/using
 
 
 #### _November 2022_
